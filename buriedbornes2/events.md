@@ -45,6 +45,7 @@
 | 🔨 Destroy it | 🔍 Survey |
 | :--- | :--- |
 | 🟨 Nothing | 🟨 Insanity +25% |
+| 🟩 💎+20 |  |
 
 ## As you walked along the road, you noticed a cave of some kind
 
@@ -170,4 +171,4 @@
 
 | 🔍 Survey | 🎲 Push |
 | :--- | :--- |
-|  | 🟩 💎+20 |
+| 🟥 Take damage, +1 Slow | 🟩 💎+20 |
