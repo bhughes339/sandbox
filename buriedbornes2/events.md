@@ -76,7 +76,7 @@
 
 ![image](images/Pasted%20image%2020240123154105.png)
 
-| 👢 Ignore | 🔑 Open (-100 SS) |
+| 👢 Ignore | 🔑 Open (💎-100) |
 | :--- | :--- |
 | 🟨 Nothing | 🟩 🔧+10 |
 
@@ -109,7 +109,7 @@
 
 ![image](images/Pasted%20image%2020240123155101.png)
 
-| 👢 Ignore | 🎲 Help (-10 SS) |
+| 👢 Ignore | 🎲 Help (💎-10) |
 | :--- | :--- |
 | 🟨 Nothing | 🟩 Random Skill |
 |  | 🟩 Treasure box (5⭐) |
@@ -118,7 +118,7 @@
 
 ![image](images/Pasted%20image%2020240123155537.png)
 
-| 👢 Ignore | 🔑 Open (-30 SS) |
+| 👢 Ignore | 🔑 Open (💎-30) |
 | :--- | :--- |
 | 🟨 Nothing | 🟩 Random Equipment |
 
