@@ -38,7 +38,7 @@
 
 | 🔨 Destroy it | 🔍 Survey |
 | --- | --- |
-| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 `⚔` Fight Viper Nest<br>🟩 `🔧` +3 Mod Points |
+| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 ⚔ Fight Viper Nest<br>🟩 🔧 +3 Mod Points |
 
 ## You arrive at a corridor lined with pots and boxes of various sizes
 
