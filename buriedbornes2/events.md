@@ -1,5 +1,7 @@
 # Buriedbornes 2 Events
 
+**NOTE:** This is not a comprehensive list--it is a living document that is updated periodically with newly discovered events/outcomes.
+
 ## Deep inside the ruins, a pedestal carved out of stone
 
 ![image](images/Pasted%20image%2020240123144509.png)
