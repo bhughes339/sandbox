@@ -1,187 +1,153 @@
+# Buriedbornes 2 Events
+
 ## Deep inside the ruins, a pedestal carved out of stone
 
 ![image](images/Pasted%20image%2020240123144509.png)
 
-### Right
-- Take damage, intense heat +50% x3
+| Right |  |
+| --- | --- |
+| 🟥 Take damage, intense heat +50% x3 |  |
 
 ## The lonely landscape continues
 
 ![image](images/Pasted%20image%2020240123145834.png)
 
-### 🔍 Survey
-- Random Skill
-- 💎 +20 SS
-
-### 🙏 Pray
-- Teleport
-- +1 Haste, -1 Consumption (1 Floor)
+| 🔍 Survey | 🙏 Pray |
+| --- | --- |
+| 🟩 Random Skill<br>🟩 💎 +20 SS | 🟨 Teleport<br>🟩 +1 Haste, -1 Consumption (1 Floor) |
 
 ## You found a carefully hidden treasure chest
 
 ![image](images/Pasted%20image%2020240123150419.png)
 
-### 🔨 Destroy it
-- Nothing
-- Random Skill
-
-### 🔑 Open
-- ⚔ Fight Mimic
-- Random equipment
-- 💎 +80 SS
-- 💎 +20 SS
+| 🔨 Destroy it | 🔑 Open |
+| --- | --- |
+| 🟨 Nothing<br>🟩 Random Skill | 🟨 ⚔ Fight Mimic<br>🟩 Random equipment<br>🟩 💎 +80 SS<br>🟩 💎 +20 SS |
 
 ## The inscription rises so high that it could be mistaken for the height of a giant
 
 ![image](images/Pasted%20image%2020240123150927.png)
 
-### 🔍 Survey
-- Insanity +25%
-
-### 🔨 Destroy
-- Nothing
+| 🔨 Destroy it | 🔍 Survey |
+| --- | --- |
+| 🟨 Nothing | 🟨 Insanity +25% |
 
 ## As you walked along the road, you noticed a cave of some kind
 
 ![image](images/Pasted%20image%2020240123151815.png)
 
-### 🔍 Survey
-- Fight Viper Nest
-- 🔧 +3 Mod Points
-
-### 🔨 Destroy it
-- Nothing
-- Random Skill Rune
+| 🔨 Destroy it | 🔍 Survey |
+| --- | --- |
+| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 `⚔` Fight Viper Nest<br>🟩 `🔧` +3 Mod Points |
 
 ## You arrive at a corridor lined with pots and boxes of various sizes
 
 ![image](images/Pasted%20image%2020240123152908.png)
 
-### ⚔ Continue
-- Burial Corridor sub-dungeon
+| 👢 Ignore | ⚔ Continue |
+| --- | --- |
+| 🟨 Nothing | 🟨 Burial Corridor sub-dungeon |
 
 ## As you entered a large hall, you saw a dusty statue of a saint in the center
 
 ![image](images/Pasted%20image%2020240123153156.png)
 
-### 🙏 Pray (Piety check?)
-- Nothing
-- Blessing of the Holy Icon (Max HP and Shield +5%)
-
-### 🔨 Destroy
-- Treasure box (4⭐)
+| 🔨 Destroy it | 🙏 Pray (Piety check?) |
+| --- | --- |
+| 🟩 Treasure box (4⭐) | 🟨 Nothing<br>🟩 Blessing of the Holy Icon (Max HP and Shield +5%) |
 
 ## He found a locked gate
 
 ![image](images/Pasted%20image%2020240123154105.png)
 
-### 🔑 Open (-100 SS)
-- 🔧 +10 mod points
+| 👢 Ignore | 🔑 Open (-100 SS) |
+| --- | --- |
+| 🟨 Nothing | 🟩 🔧 +10 mod points |
 
 ## A steep slope stretches on
 
 ![image](images/Pasted%20image%2020240123154406.png)
 
-### 🔨 Destroy it
-- Random Skill
+| 🔨 Destroy it | 💨 Avoid (Evasion check) |
+| --- | --- |
+| 🟩 Random Skill | 🟩 🔧 +3 Mod Points |
 
-### 💨 Avoid (Evasion check)
-- 🔧 +3 Mod Points
+## Sensing the presence of someone
 
-## Sensing the presence of someone approaching from the front
+![image](images/Pasted%20image%2020240123154734.png)
 
-![image](images/images/Pasted%20image%2020240123154734.png)
+| 💀 Kill | 🎲 Talk |
+| --- | --- |
+|  | 🟨 Nothing |
 
-### 💀 Kill
-- 
-
-### 🎲 Talk
-- Nothing
-
-## You found a small fountain filled with spring water
+## You found a small fountain
 
 ![image](images/Pasted%20image%2020240123154953.png)
 
-### 🔍 Survey
-- 💎 +8 SS
+| 🔍 Survey | 🌊 Drink |
+| --- | --- |
+| 🟩 💎 +8 SS | 🟩 Restorative Spring (+5% Almighty)<br>🟥 Poisonous Spring (-5% Almighty) |
 
-### 🌊 Drink
-- Restorative Spring (+5% Almighty)
-- Poisonous Spring (-5% Almighty)
-
-## You shouted a warning as you felt a presence in the shadows
+## You shouted a warning
 
 ![image](images/Pasted%20image%2020240123155101.png)
 
-### 👢 Ignore
-- Nothing
-
-### 🎲 Help (-10 SS)
-- Random Skill
-- Treasure box (5⭐)
+| 👢 Ignore | 🎲 Help (-10 SS) |
+| --- | --- |
+| 🟨 Nothing | 🟩 Random Skill<br>🟩 Treasure box (5⭐) |
 
 ## You found a treasure chest sealed by magic
 
 ![image](images/Pasted%20image%2020240123155537.png)
 
-### 👢 Ignore
-- Nothing
-
-### 🔑 Open (-30 SS)
-- Random Equipment
+| 👢 Ignore | 🔑 Open (-30 SS) |
+| --- | --- |
+| 🟨 Nothing | 🟩 Random Equipment |
 
 ## A terrible miasma
 
 ![image](images/Pasted%20image%2020240123160319.png)
 
-### 💀 Kill
-- Fight (+200 SS, +50% risk)
+| 👢 Ignore | 💀 Kill |
+| --- | --- |
+| 🟨 Nothing | 🟨 ⚔ Fight tough enemy (💎 +200 SS, +50% risk) |
 
-## As you move deeper and deeper into the cave, you discover an obvious artifact
+## As you move deeper and deeper into the cave
 
 ![image](images/Pasted%20image%2020240124094908.png)
 
-### 👢 Continue
-- Sub-dungeon Underground Ruins
+| 👢 Ignore | ⚔ Continue |
+| --- | --- |
+| 🟨 Nothing | 🟨 Sub-dungeon Underground Ruins |
 
 ## As I was descending the steep slope under the scorching heat
 
 ![image](images/Pasted%20image%2020240125075344.png)
 
-### 👢 Ignore
-- 5 Mod Points
-
-### 🎲 Understood
-- Random Skill
+| 👢 Ignore | 🎲 Understood |
+| --- | --- |
+| 🟩 🔧 +5 Mod Points | 🟩 Random Skill |
 
 ## You discovered a pile of corpses
 
 ![image](images/Pasted%20image%2020240125075709.png)
 
-### 🔥 Burn
-- Nothing
-- 💎 +20 SS
-- +Risk?
-
-### 🔍 Survey
-- ⚔ Fight Ancient Torturer
+| 🔥 Burn | 🔍 Survey |
+| --- | --- |
+| 🟨 Nothing<br>🟩 💎 +20 SS<br>🟨 +Risk? | 🟨 ⚔ Fight Ancient Torturer |
 
 ## You have discovered what looks like an old sarcophagus
 
 ![image](images/Pasted%20image%2020240125081206.png)
 
-### 🔍 Survey
-- Nothing
-
-### 🔑 Open
-- Random Equipment
+| 🔍 Survey | 🔑 Open |
+| --- | --- |
+| 🟨 Nothing | 🟩 Random Equipment |
 
 ## You proceeded along an irreplaceable path
 
 ![image](images/Pasted%20image%2020240125092014.png)
 
-### 🔍 Survey
-- 
-
-### 🎲 Push
-- 💎 +20 SS
+| 🔍 Survey | 🎲 Push |
+| --- | --- |
+|  | 🟩 💎 +20 SS |
