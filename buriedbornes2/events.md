@@ -2,6 +2,14 @@
 
 **NOTE:** This is not a comprehensive list--it is a living document that is updated periodically with newly discovered events/outcomes.
 
+## Legend
+
+| Icon | Meaning |
+| :--- | :--- |
+| 💎 | Soulstones |
+| 🔧 | Mod Points |
+| ⚔ | Battle |
+
 ## Deep inside the ruins, a pedestal carved out of stone
 
 ![image](images/Pasted%20image%2020240123144509.png)
@@ -16,7 +24,7 @@
 
 | 🔍 Survey | 🙏 Pray |
 | :--- | :--- |
-| 🟩 Random Skill<br>🟩 💎 +20 SS | 🟨 Teleport<br>🟩 +1 Haste, -1 Consumption (1 Floor) |
+| 🟩 Random Skill<br>🟩 💎+20 | 🟨 Teleport<br>🟩 +1 Haste, -1 Consumption (1 Floor) |
 
 ## You found a carefully hidden treasure chest
 
@@ -24,7 +32,7 @@
 
 | 🔨 Destroy it | 🔑 Open |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 Random Skill | 🟨 ⚔ Fight Mimic<br>🟩 Random equipment<br>🟩 💎 +80 SS<br>🟩 💎 +20 SS |
+| 🟨 Nothing<br>🟩 Random Skill | 🟨 ⚔ Mimic<br>🟩 Random equipment<br>🟩 💎+80<br>🟩 💎+20 |
 
 ## The inscription rises so high that it could be mistaken for the height of a giant
 
@@ -40,7 +48,7 @@
 
 | 🔨 Destroy it | 🔍 Survey |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 ⚔ Fight Viper Nest<br>🟩 🔧 +3 Mod Points |
+| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 ⚔ Viper Nest<br>🟩 🔧+3 |
 
 ## You arrive at a corridor lined with pots and boxes of various sizes
 
@@ -64,7 +72,7 @@
 
 | 👢 Ignore | 🔑 Open (-100 SS) |
 | :--- | :--- |
-| 🟨 Nothing | 🟩 🔧 +10 mod points |
+| 🟨 Nothing | 🟩 🔧+10 |
 
 ## A steep slope stretches on
 
@@ -72,7 +80,7 @@
 
 | 🔨 Destroy it | 💨 Avoid (Evasion check) |
 | :--- | :--- |
-| 🟩 Random Skill | 🟩 🔧 +3 Mod Points |
+| 🟩 Random Skill | 🟩 🔧+3 |
 
 ## Sensing the presence of someone
 
@@ -88,7 +96,7 @@
 
 | 🔍 Survey | 🌊 Drink |
 | :--- | :--- |
-| 🟩 💎 +8 SS | 🟩 Restorative Spring (+5% Almighty)<br>🟥 Poisonous Spring (-5% Almighty) |
+| 🟩 💎+8 | 🟩 Restorative Spring (+5% Almighty)<br>🟥 Poisonous Spring (-5% Almighty) |
 
 ## You shouted a warning
 
@@ -112,7 +120,7 @@
 
 | 👢 Ignore | 💀 Kill |
 | :--- | :--- |
-| 🟨 Nothing | 🟨 ⚔ Fight tough enemy (💎 +200 SS, +50% risk) |
+| 🟨 Nothing | 🟨 ⚔ Tough enemy (💎+200, +50% risk) |
 
 ## As you move deeper and deeper into the cave
 
@@ -128,7 +136,7 @@
 
 | 👢 Ignore | 🎲 Understood |
 | :--- | :--- |
-| 🟩 🔧 +5 Mod Points | 🟩 Random Skill |
+| 🟩 🔧+5 | 🟩 Random Skill |
 
 ## You discovered a pile of corpses
 
@@ -136,7 +144,7 @@
 
 | 🔥 Burn | 🔍 Survey |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 💎 +20 SS<br>🟨 +Risk? | 🟨 ⚔ Fight Ancient Torturer |
+| 🟨 Nothing<br>🟩 💎+20<br>🟨 +Risk? | 🟨 ⚔ Ancient Torturer |
 
 ## You have discovered what looks like an old sarcophagus
 
@@ -152,4 +160,4 @@
 
 | 🔍 Survey | 🎲 Push |
 | :--- | :--- |
-|  | 🟩 💎 +20 SS |
+|  | 🟩 💎+20 |
