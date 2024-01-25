@@ -24,7 +24,8 @@
 
 | 🔍 Survey | 🙏 Pray |
 | :--- | :--- |
-| 🟩 Random Skill<br>🟩 💎+20 | 🟨 Teleport<br>🟩 +1 Haste, -1 Consumption (1 Floor) |
+| 🟩 Random Skill | 🟨 Teleport |
+| 🟩 💎+20 | 🟩 +1 Haste, -1 Consumption (1 Floor) |
 
 ## You found a carefully hidden treasure chest
 
@@ -32,7 +33,10 @@
 
 | 🔨 Destroy it | 🔑 Open |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 Random Skill | 🟨 ⚔ Mimic<br>🟩 Random equipment<br>🟩 💎+80<br>🟩 💎+20 |
+| 🟨 Nothing | 🟨 ⚔ Mimic |
+| 🟩 Random Skill | 🟩 Random equipment |
+|  | 🟩 💎+80
+|  | 🟩 💎+20
 
 ## The inscription rises so high that it could be mistaken for the height of a giant
 
@@ -48,7 +52,8 @@
 
 | 🔨 Destroy it | 🔍 Survey |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 Random Skill Rune | 🟨 ⚔ Viper Nest<br>🟩 🔧+3 |
+| 🟨 Nothing | 🟨 ⚔ Viper Nest |
+| 🟩 Random Skill Rune | 🟩 🔧+3 |
 
 ## You arrive at a corridor lined with pots and boxes of various sizes
 
@@ -64,7 +69,8 @@
 
 | 🔨 Destroy it | 🙏 Pray (Piety check?) |
 | :--- | :--- |
-| 🟩 Treasure box (4⭐) | 🟨 Nothing<br>🟩 Blessing of the Holy Icon (Max HP and Shield +5%) |
+| 🟩 Treasure box (4⭐) | 🟨 Nothing |
+|  | 🟩 Blessing of the Holy Icon (Max HP and Shield +5%) |
 
 ## He found a locked gate
 
@@ -96,7 +102,8 @@
 
 | 🔍 Survey | 🌊 Drink |
 | :--- | :--- |
-| 🟩 💎+8 | 🟩 Restorative Spring (+5% Almighty)<br>🟥 Poisonous Spring (-5% Almighty) |
+| 🟩 💎+8 | 🟩 Restorative Spring (+5% Almighty) |
+|  | 🟥 Poisonous Spring (-5% Almighty) |
 
 ## You shouted a warning
 
@@ -104,7 +111,8 @@
 
 | 👢 Ignore | 🎲 Help (-10 SS) |
 | :--- | :--- |
-| 🟨 Nothing | 🟩 Random Skill<br>🟩 Treasure box (5⭐) |
+| 🟨 Nothing | 🟩 Random Skill |
+|  | 🟩 Treasure box (5⭐) |
 
 ## You found a treasure chest sealed by magic
 
@@ -144,7 +152,9 @@
 
 | 🔥 Burn | 🔍 Survey |
 | :--- | :--- |
-| 🟨 Nothing<br>🟩 💎+20<br>🟨 +Risk? | 🟨 ⚔ Ancient Torturer |
+| 🟨 Nothing | 🟨 ⚔ Ancient Torturer |
+| 🟩 💎+20 |  |
+| 🟨 +Risk? |  |
 
 ## You have discovered what looks like an old sarcophagus
 
