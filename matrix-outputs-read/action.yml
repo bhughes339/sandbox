@@ -1,6 +1,6 @@
-name: 'Matrix outputs - read to file'
+name: 'Matrix outputs - read'
 description: 'Read outputs for matrix'
-upstream_author: hello@cloudposse.com
+author: hello@cloudposse.com
 branding:
   icon: 'chevrons-down'
   color: 'white'
@@ -8,20 +8,23 @@ inputs:
   matrix-step-name:
     required: true
     description: "Matrix step name"
-  output-file-name:
-    default: output.txt
 outputs:
-  file-name:
-    description: "Output file name"
-    value: "${{ inputs.output-file-name }}"
+  result:
+    description: "Outputs result"
+    value: "${{ steps.context.outputs.result }}"
 runs:
   using: "composite"
   steps:
+    - name: 'Setup jq'
+      uses: dcarbone/install-jq-action@v2.1.0
+      with:
+        version: 1.6
+        force: 'true'
 
     - uses: actions/download-artifact@v3
 
     - id: context
       shell: bash
       run: |
-        find . -name ${{ inputs.matrix-step-name }} -maxdepth 2 -exec cat {} \; | jq -c --slurp 'map(to_entries | map(.key as $matrix_key | .value | map_values({($matrix_key): .}))) | flatten | reduce .[] as $item ({}; . * $item)' > ${{ inputs.output-file-name }}
-       
+        result="$(find . -name ${{ inputs.matrix-step-name }} -maxdepth 2 -exec cat {} \; | jq -c --slurp 'map(to_entries | map(.key as $matrix_key | .value | map_values({($matrix_key): .}))) | flatten | reduce .[] as $item ({}; . * $item)' )"
+        echo "result=${result}" >> $GITHUB_OUTPUT
