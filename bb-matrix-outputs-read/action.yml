@@ -23,5 +23,5 @@ runs:
     - id: context
       shell: bash
       run: |
-        find . -name ${{ inputs.matrix-step-name }} -maxdepth 2 -exec cat {} \; | jq -c --slurp 'map(to_entries | map(.key as $matrix_key | .value | map_values({($matrix_key): .}))) | flatten | reduce .[] as $item ({}; . * $item)' > ${{ inputs.output-file-name }}
+        find . -name ${{ inputs.matrix-step-name }} -maxdepth 2 -exec cat {} \; | jq -c --slurp 'map(to_entries | map(.key as $matrix_key | .value )) | flatten | reduce .[] as $item ({}; . * $item)' > ${{ inputs.output-file-name }}
        
